@@ -1,0 +1,8 @@
+Use Cases:
+
+- Track product sales trends
+- Analyze supplier performance
+- Monitor inventory levels
+- Monitor channel allocations
+- Study product lifecycle
+- Pricing and discount impact studies
