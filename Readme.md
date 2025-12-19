@@ -2,9 +2,9 @@ E-Commerce & Retail Supply Chain
 
 ## Diagram project structure:
 
-![D7E9B646-2188-4367-B908-1315ADA2F82D.png](attachment:5c484944-a5bf-4b20-a8ee-048cecf7a4d5:D7E9B646-2188-4367-B908-1315ADA2F82D.png)
+![alt text](8B90B9E6-2047-43B3-855A-8F33B79D6902.png)
 
-![09D91F4C-5C89-4755-BFFA-8B0C84DB1CA3.png](attachment:27b90da2-07be-4648-895e-eccb9ff0b655:09D91F4C-5C89-4755-BFFA-8B0C84DB1CA3.png)
+![alt text](b0c11e70f731165cfd97..._imresizer.jpg)
 
 # Use-Case
 
