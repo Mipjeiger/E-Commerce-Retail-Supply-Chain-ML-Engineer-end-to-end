@@ -12,3 +12,6 @@ venv/
 .idea/
 *.log
 requirements.txt
+airflow/.env
+.env
+airflow/password.txt
