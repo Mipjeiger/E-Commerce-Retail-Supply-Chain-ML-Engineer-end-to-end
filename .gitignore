@@ -3,3 +3,12 @@ __pycache__/
 .ipynb_checkpoints
 .vscode/
 .DS_Store
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+.idea/
+*.log
+requirements.txt

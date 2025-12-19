@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 sales = pd.read_csv("data/sales.csv")
 products = pd.read_csv("data/products.csv")
 daily_inventory = pd.read_csv("data/daily_inventory.csv")

@@ -13,6 +13,10 @@ engine = create_engine(
     f"postgresql+psycopg2://{DB_USER}:{DB_PASSWORD}@localhost:5432/{DB_NAME}"
 )
 
+if engine in locals():
+    print("Database engine created successfully.")
+else:
+    print("Failed to create database engine.")
 
 # usage
 if __name__ == "__main__":
