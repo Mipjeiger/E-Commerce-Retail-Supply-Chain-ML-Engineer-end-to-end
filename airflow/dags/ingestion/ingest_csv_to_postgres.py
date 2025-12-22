@@ -70,7 +70,7 @@ with DAG(
     dag_id="csv_ingestion",
     description="Ingest CSV files to PostgreSQL raw schema",
     start_date=datetime(2025, 12, 19),
-    schedule_interval="@daily",
+    schedule="@daily",  # Gunakan 'schedule' bukan 'schedule_interval'
     catchup=False,
     tags=["ingestion", "csv", "postgres"],
     default_args={
